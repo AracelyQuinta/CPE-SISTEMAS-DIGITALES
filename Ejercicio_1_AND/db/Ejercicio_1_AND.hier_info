@@ -1,0 +1,6 @@
+|Ejercicio_1_AND
+A => SAL.IN0
+B => SAL.IN1
+SAL <= SAL.DB_MAX_OUTPUT_PORT_TYPE
+
+
